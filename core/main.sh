@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd ..
-cd media
+cd .media
 
 touch links.txt
 nano links.txt
