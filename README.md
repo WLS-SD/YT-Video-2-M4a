@@ -45,25 +45,8 @@ dl-music
 
 ## For Linux :---
 
-For installation :~~
 
-```
-
-sudo apt install git -y ; git clone https://github.com/WLS-SD/YT-Video-2-M4a ; cd YT-Video-2-M4a ; chmod +x * ; ./ipp_se.sh && exit
-
-```
-
-### Terminal Will Be Closed so open new terminal &
-
-Now to Start This TooL :~
-
-```
-
-dl-music
-
-```
-
-
+# Note :~ Currently This Tool Only Works on TermuX ,, it Will Take Some Time To Make it Well Executable on Linux System... i will make this to run in LinuX As Soon As Possible...
 
 
 # Connect with me:
