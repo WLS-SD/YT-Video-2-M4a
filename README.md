@@ -53,7 +53,8 @@ dl-music
 # Dependencies :~
 1. Python
 2. Youtube-DL
-3. Bash SheLL { Or Any Linux Shell (LinuX Like Environment) }
+3. FFMPEG ( Built-in )
+4. Bash SheLL { Or Any Linux Shell (LinuX Like Environment) }
 
 
 # Connect with me:
