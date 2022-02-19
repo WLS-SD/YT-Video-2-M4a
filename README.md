@@ -27,19 +27,21 @@ For installation :~~
 
 ```
 
-apt install git -y ; git clone https://github.com/WLS-SD/YT-Video-2-M4a ; cd YT-Video-2-M4a ; chmod +x * ; ./setup.sh && exit
+apt install git -y ; git clone https://github.com/WLS-SD/YT-Video-2-M4a ; cd YT-Video-2-M4a ; chmod +x * ; ./ipp_se.sh && exit
 
 ```
 
 ### Terminal Will Be Closed so open new terminal &
 
-Now to Start PyServer :~
+Now to Start This TooL , Execute Below Command :~
 
 ```
 
 pyserver
 
 ```
+
+### And Now Paste YouTube Video Link or Links and Save that in Nano ( Ctrl + s ) and to close Nano ( Ctrl + x ) ...And Now Your Download Will Start Soon...And You can Find Downloaded Songs in Your Internal Storage With Folder Name    Musics-From-Termux.
 
 ## For Linux :---
 
