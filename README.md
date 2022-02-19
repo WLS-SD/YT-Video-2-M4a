@@ -48,6 +48,13 @@ dl-music
 
 # Note :~ Currently This Tool Only Works on TermuX ,, it Will Take Some Time To Make it Well Executable on Linux System... i will make this to run in LinuX As Soon As Possible...
 
+### This TooL Depends On Python & Youtube-DL TooL.
+
+# Dependencies :~
+1. Python
+2. Youtube-DL
+3. Bash SheLL { Or Any Linux Shell (LinuX Like Environment) }
+
 
 # Connect with me:
 
