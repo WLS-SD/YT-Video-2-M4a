@@ -4,6 +4,7 @@ termux-setup-storage
 
 apt install figlet -y
 apt install python -y
+apt install ffmpeg -y
 
 pip install youtube_dl
 
