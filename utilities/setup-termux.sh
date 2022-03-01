@@ -17,5 +17,9 @@ cd
 cd /sdcard
 mkdir Musics-From-Termux
 
+cd
+chmod 777 dl-music.sh
+
+
 
 
