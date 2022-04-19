@@ -45,19 +45,8 @@ dl-music
 
 ## For Linux :---
 
-```
-apt install git -y ; git clone https://github.com/WLS-SD/YT-Video-2-M4a ; cd YT-Video-2-M4a ; chmod +x * ; sudo su; ./ipp_se.sh && exit
 
-```
-
-Now to Start This TooL , Execute Below Command :~
-
-```
-
-dl-music
-
-```
-
+# Note :~ Currently This Tool Only Works on TermuX ,, it Will Take Some Time To Make it Well Executable on Linux System... i will make this to run in LinuX As Soon As Possible...
 
 ### This TooL Depends On Python & Youtube-DL TooL.
 
