@@ -6,7 +6,7 @@ apt install figlet -y
 apt install python -y
 apt install ffmpeg -y
 
-pip install youtube_dl
+python3 -m pip install -U yt-dlp
 
 
 ./Aliases.sh
