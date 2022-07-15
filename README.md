@@ -52,12 +52,12 @@ dl-music
 
 ### And Now Paste YouTube Video Link or Links and Save that in Nano ( Ctrl + s ) and to close Nano ( Ctrl + x ) ...And Now Your Download Will Start Soon...And You can Find Downloaded Songs in Your Internal Storage With Folder Name  (Musics-From-Termux).
 
-## For Linux :---
+# For Linux :---
 
 
 # Note :~ Currently This Tool Only Works on TermuX ,, it Will Take Some Time To Make it Well Executable on Linux System... i will make this to run in LinuX As Soon As Possible...
 
-### This TooL Depends On Python & Youtube-DL TooL.
+.
 
 # Dependencies :~
 1. Python
