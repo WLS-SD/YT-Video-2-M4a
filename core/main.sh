@@ -23,7 +23,7 @@ nano links.txt
 
 LightCyan="\e[96m"
 printf "${LightCyan}"
-                                                        youtube-dl -f m4a -a links.txt
+                                                        yt-dlp -f m4a -a links.txt
 
 echo " Moving Files "
 
