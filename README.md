@@ -60,7 +60,7 @@ dl-music
 .
 
 # Dependencies :~
-1. Python
+1. Python Version 3.
 2. yt-dlp ( yt-dlp is Enhanced and Improved Version of Youtube-DL ).
 3. FFMPEG ( Built-in )
 4. Bash SheLL { Or Any Linux Shell (LinuX Like Environment) where This Tool Can Run. }
